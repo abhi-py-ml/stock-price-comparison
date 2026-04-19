@@ -1,4 +1,4 @@
-# Stock Price Comparison Tool
+#  Stock Price Comparison Tool
 
 A Python-based data analysis project that compares the performance of two stocks using normalization and moving averages.
 
@@ -7,11 +7,11 @@ A Python-based data analysis project that compares the performance of two stocks
 # Features
 
 * Fetch historical stock data using `yfinance`
-*  Combine multiple stock datasets
-*  Handle missing values (forward fill & backward fill)
-*  Normalize stock prices for fair comparison
-*  Calculate moving averages (SMA20 & SMA50)
-*  Visualize:
+* Combine multiple stock datasets
+* Handle missing values (forward fill & backward fill)
+* Normalize stock prices for fair comparison
+* Calculate moving averages (SMA20 & SMA50)
+* Visualize:
 
   * Individual stock performance
   * Comparative performance in a single chart
@@ -25,9 +25,9 @@ A Python-based data analysis project that compares the performance of two stocks
 * matplotlib
 * yfinance
 
+---
 
-
- How It Works
+# How It Works
 
 1. Fetch stock data from Yahoo Finance
 2. Merge datasets based on date
@@ -36,16 +36,18 @@ A Python-based data analysis project that compares the performance of two stocks
 5. Calculate moving averages
 6. Plot graphs for analysis
 
----
 
-Example Stocks Used
+
+# Example Stocks Used
 
 * Tesla (TSLA)
 * Apple (AAPL)
 
 ---
 
-## How to Run
+ How to Run
+
+Install dependencies:
 
 ```bash
 pip install yfinance pandas matplotlib
@@ -61,9 +63,9 @@ python main.py
 
 # Output
 
-* Individual stock plots with SMA
-* Combined comparison plot (normalized)
-* ![Comparison Graph](comparison.png)
+# Stock Comparison Graph
+
+![Comparison Graph](comparison.png)
 
 ---
 
@@ -75,8 +77,12 @@ python main.py
 * Moving Averages (SMA)
 * Data Visualization
 
+---
 
 
 
+Abhijeet
+
+---
 
 
