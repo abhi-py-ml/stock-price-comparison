@@ -66,6 +66,7 @@ python main.py
 # Stock Comparison Graph
 
 ![Comparison Graph](comparison.png)
+This graph shows normalized price comparison between Tesla and Apple along with SMA50 trends.
 
 ---
 
