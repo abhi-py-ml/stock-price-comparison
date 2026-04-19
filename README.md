@@ -63,6 +63,7 @@ python main.py
 
 * Individual stock plots with SMA
 * Combined comparison plot (normalized)
+* ![Comparison Graph](comparison.png)
 
 ---
 
