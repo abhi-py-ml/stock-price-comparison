@@ -6,12 +6,12 @@ A Python-based data analysis project that compares the performance of two stocks
 
 # Features
 
-* 📊 Fetch historical stock data using `yfinance`
-* 🔗 Combine multiple stock datasets
-* 🧹 Handle missing values (forward fill & backward fill)
-* ⚖️ Normalize stock prices for fair comparison
-* 📉 Calculate moving averages (SMA20 & SMA50)
-* 📈 Visualize:
+* Fetch historical stock data using `yfinance`
+*  Combine multiple stock datasets
+*  Handle missing values (forward fill & backward fill)
+*  Normalize stock prices for fair comparison
+*  Calculate moving averages (SMA20 & SMA50)
+*  Visualize:
 
   * Individual stock performance
   * Comparative performance in a single chart
@@ -45,7 +45,7 @@ Example Stocks Used
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ```bash
 pip install yfinance pandas matplotlib
@@ -59,7 +59,7 @@ python main.py
 
 ---
 
-## 📸 Output
+# Output
 
 * Individual stock plots with SMA
 * Combined comparison plot (normalized)
