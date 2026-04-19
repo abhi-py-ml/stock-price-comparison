@@ -79,6 +79,7 @@ class StockPriceComparison:
         plt.ylabel('Normalized Price')
         plt.legend()
         plt.grid(True)
+        plt.savefig('comparison.png')
 
         plt.show()
 
